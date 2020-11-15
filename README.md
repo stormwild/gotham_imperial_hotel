@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TalAter/gotham_imperial_hotel)
+
 # Gotham Imperial Hotel
 
 Welcome to the completely fictional Gotham Imperial Hotel.
