@@ -1,4 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/TalAter/gotham_imperial_hotel)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/stormwild/gotham_imperial_hotel)
 
 # Gotham Imperial Hotel
 
@@ -14,19 +14,19 @@ You will use service workers so that it loads almost instantly (even on the slow
 
 To get started, open your computer's command prompt (the console), change to the directory you would like to download the code to, and run the following commands:
 
-````
+```
 git clone -b ch02-start git@github.com:TalAter/gotham_imperial_hotel.git
 cd gotham_imperial_hotel
 npm install
-````
+```
 
 These commands will clone the source code for the Gotham Imperial Hotel web app, change to the branch named `ch02-start`, and install the dependencies needed to run it.
 
 Next, you can go ahead and start a local server to serve the site with the following command:
 
-````
+```
 npm start
-````
+```
 
 If you now open [http://localhost:8443/](http://localhost:8443/) in your browser, you should see the Gotham Imperial Hotel site.
 
@@ -34,19 +34,19 @@ As the code of each chapter builds on changes made in previous chapters, at the 
 
 For example, before starting chapter 5 you can run the following:
 
-````
+```
 git reset --hard
 git checkout ch05-start
-````
+```
 
 > Detailed instructions for working with the code are available in chapter 2 of the book.
 
 ### Prerequisites
 
-* <a href="https://pwabook.com/oreillyrepo">Building Progressive Web Apps</a>
-* Git
-* Node.js
-* NPM
+- <a href="https://pwabook.com/oreillyrepo">Building Progressive Web Apps</a>
+- Git
+- Node.js
+- NPM
 
 ### Author
 
